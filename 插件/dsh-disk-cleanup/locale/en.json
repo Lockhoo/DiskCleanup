@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Disk cleanup scan",
+    "description": "Scan a drive read-only and generate a cleanup report (Markdown, HTML, CSV, JSON) with size-sorted cache, temp, large-file, and suspicious-leftover candidates. A Disk scan panel in the right sidebar lets you choose a path, start a scan, follow progress, and open the report; the agent tool disk_cleanup_scan runs the same scan. Nothing is deleted, moved, or modified."
+  }
+}

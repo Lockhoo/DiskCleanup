@@ -1,0 +1,30 @@
+# Build outputs
+DiskCleanup.exe
+*.dll
+*.exe
+*.pdb
+
+# Dependencies
+node_modules/
+
+# Generated scan reports
+DSH-Scan/
+disk-cleanup.md
+disk-cleanup.html
+disk-cleanup.csv
+disk-cleanup.json
+summary.txt
+.jobs.json
+
+# Temporary and editor files
+*.log
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/

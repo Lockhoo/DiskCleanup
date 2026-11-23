@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <mask id="lens-clear">
+      <rect width="36" height="36" fill="#ffffff"/>
+      <circle cx="24.5" cy="24.5" r="8.1" fill="#000000"/>
+    </mask>
+  </defs>
+  <path mask="url(#lens-clear)" fill-rule="evenodd" fill="#475569"
+        d="M15.5 5a10.5 10.5 0 1 0 0 21a10.5 10.5 0 1 0 0-21Zm0 6.3a4.2 4.2 0 1 0 0 8.4a4.2 4.2 0 1 0 0-8.4Z"/>
+  <circle cx="24.5" cy="24.5" r="6.2" fill="none" stroke="#0D9488" stroke-width="2.6"/>
+  <path d="M29 29 L32.6 32.6" stroke="#0D9488" stroke-width="2.8" stroke-linecap="round"/>
+</svg>
